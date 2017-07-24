@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					CA810E731F25F9A3008962E1 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 37UA7H79FZ;
 						ProvisioningStyle = Automatic;
 					};
 					CA810E871F25F9A3008962E1 = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 37UA7H79FZ;
 				INFOPLIST_FILE = MArk/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sho.MArk;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 37UA7H79FZ;
 				INFOPLIST_FILE = MArk/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = sho.MArk;
@@ -505,6 +508,7 @@
 				CA810E9E1F25F9A3008962E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CA810E9F1F25F9A3008962E1 /* Build configuration list for PBXNativeTarget "MArkTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				CA810EA11F25F9A3008962E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CA810EA21F25F9A3008962E1 /* Build configuration list for PBXNativeTarget "MArkUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				CA810EA41F25F9A3008962E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
