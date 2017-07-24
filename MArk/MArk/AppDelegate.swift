@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  MArk
+//  mark
 //
-//  Created by shota nemoto on 2017/07/24.
-//  Copyright © 2017 shota nemoto. All rights reserved.
+//  Created by 花岡大樹 on 2017/07/24.
+//  Copyright © 2017年 花岡大樹. All rights reserved.
 //
 
 import UIKit
